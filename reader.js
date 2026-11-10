@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",()=>{const toc=document.getElementById("contents");if(toc&&window.matchMedia("(min-width:801px)").matches)toc.open=true;});
